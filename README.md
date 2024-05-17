@@ -49,7 +49,3 @@ This project is a Sudoku game and solver application built using Python and Tkin
     - Set & Solve: Input your Sudoku puzzle and get the solution.
     - Clear: Clear the input fields.
     - Back to Menu: Return to the main menu.
-
-## License
-
-This project is licensed under the MIT License.
